@@ -15,8 +15,8 @@ import org.usfirst.frc5256.BlueTapeThree1.RobotMap;
 import org.usfirst.frc5256.BlueTapeThree1.commands.*;
 import edu.wpi.first.wpilibj.RobotDrive;
 import edu.wpi.first.wpilibj.SpeedController;
-import edu.wpi.first.wpilibj.Talon;
-import edu.wpi.first.wpilibj.Victor;
+//import edu.wpi.first.wpilibj.Talon;
+//import edu.wpi.first.wpilibj.Victor;
 
 import edu.wpi.first.wpilibj.command.Subsystem;
 

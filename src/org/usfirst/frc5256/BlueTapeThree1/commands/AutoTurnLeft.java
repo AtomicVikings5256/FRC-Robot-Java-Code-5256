@@ -16,7 +16,8 @@ protected void initialize() {
 
 // Called repeatedly when this Command is scheduled to run
 protected void execute() {
-	RobotMap.driveWPI_Drive.arcadeDrive(0, 0.8075);
+	// 0.8075
+	RobotMap.driveWPI_Drive.arcadeDrive(0, .93);
 }
 
 // Make this return true when this Command no longer needs to run execute()
